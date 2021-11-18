@@ -1,0 +1,17 @@
+[20-Oct-2020 15:38:24 UTC] PHP Warning:  copy(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in Command line code on line 1
+[20-Oct-2020 15:38:24 UTC] PHP Warning:  copy(https://getcomposer.org/installer): failed to open stream: no suitable wrapper could be found in Command line code on line 1
+[20-Oct-2020 15:38:24 UTC] PHP Warning:  hash_file(composer-setup.php): failed to open stream: No such file or directory in Command line code on line 1
+[20-Oct-2020 15:38:24 UTC] PHP Warning:  unlink(composer-setup.php): No such file or directory in Command line code on line 1
+[20-Oct-2020 15:38:26 UTC] PHP Warning:  unlink(composer-setup.php): No such file or directory in Command line code on line 1
+[20-Oct-2020 15:38:38 UTC] PHP Warning:  copy(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in Command line code on line 1
+[20-Oct-2020 15:38:38 UTC] PHP Warning:  copy(https://getcomposer.org/installer): failed to open stream: no suitable wrapper could be found in Command line code on line 1
+[20-Oct-2020 15:38:38 UTC] PHP Warning:  hash_file(composer-setup.php): failed to open stream: No such file or directory in Command line code on line 1
+[20-Oct-2020 15:38:38 UTC] PHP Warning:  unlink(composer-setup.php): No such file or directory in Command line code on line 1
+[20-Oct-2020 15:40:37 UTC] PHP Warning:  copy(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in Command line code on line 1
+[20-Oct-2020 15:40:37 UTC] PHP Warning:  copy(https://getcomposer.org/installer): failed to open stream: no suitable wrapper could be found in Command line code on line 1
+[20-Oct-2020 15:41:37 UTC] PHP Warning:  copy(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in Command line code on line 1
+[20-Oct-2020 15:41:37 UTC] PHP Warning:  copy(https://getcomposer.org/installer): failed to open stream: no suitable wrapper could be found in Command line code on line 1
+[20-Oct-2020 15:41:44 UTC] PHP Warning:  copy(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in Command line code on line 1
+[20-Oct-2020 15:41:44 UTC] PHP Warning:  copy(https://getcomposer.org/installer): failed to open stream: no suitable wrapper could be found in Command line code on line 1
+[20-Oct-2020 15:42:09 UTC] PHP Warning:  copy(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in Command line code on line 1
+[20-Oct-2020 15:42:09 UTC] PHP Warning:  copy(https://getcomposer.org/installer): failed to open stream: no suitable wrapper could be found in Command line code on line 1
